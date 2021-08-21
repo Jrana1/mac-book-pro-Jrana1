@@ -35,6 +35,8 @@ function updateTotal() {
     pomoInput.value = "";
 }
 
+
+
 memoryBtn1.addEventListener("click", e => {
     priceForMemory.innerText = 0;
     updateTotal();
